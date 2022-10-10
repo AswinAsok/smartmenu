@@ -15,7 +15,7 @@
 }
 
 .submit_btn {
-  background-color: #404040;
+  background-color: rgb(0, 174, 255);
   color: white;
   padding: 0.75rem 1.95rem;
   margin-top: 2rem;
@@ -25,10 +25,15 @@
 
 .tagline {
   margin-top: 1rem;
+  font-family: "Trebuchet MS";
+  line-height: 1.5rem;
 }
 
 .header {
   font-size: 2.75rem;
+  font-weight: 500;
+  color: rgb(0, 174, 255);
+  font-family: "Gill Sans", sans-serif;
 }
 
 @media screen and (min-width: 992px) {
